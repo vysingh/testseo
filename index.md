@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/vysingh/testseo/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<!--RoboAuditor embed code start-->
+<center><div id="roboaudit"></div></center>
+<script  id="growthrobo" src="https://d3ikwiixxizqwk.cloudfront.net/assets/site/js/v1.sitecheck.js" data-content="5555"></script>
+<div id="growthembed" data-content="5555"></div>
+<!--RoboAuditor embed code end-->
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,11 +21,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<!--RoboAuditor embed code start-->
-<center><div id="roboaudit"></div></center>
-<script  id="growthrobo" src="https://d3ikwiixxizqwk.cloudfront.net/assets/site/js/v1.sitecheck.js" data-content="5555"></script>
-<div id="growthembed" data-content="5555"></div>
-<!--RoboAuditor embed code end-->
+
 
 
 - Bulleted
